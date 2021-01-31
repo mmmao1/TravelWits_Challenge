@@ -45,7 +45,6 @@ searchBar.addEventListener('keyup', (e) => {
       return (movie.name.toLowerCase().includes(searchString));
     });
     dictCopy[key] = filteredMovies;
-    console.log("OK!")
   }
   try {
     display_Categories(dictCopy);
