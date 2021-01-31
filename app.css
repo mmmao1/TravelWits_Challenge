@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+}
+  
+#category_list {
+padding-left: 0px;
+}
+
+.category {
+padding-left: 0.25px;
+}
+
+li {
+margin: 2vmin;
+border: 0.25px solid black;
+border-radius: 2vmin;
+padding-bottom: 1vmin;
+padding-left: 0.5vmin;
+}
+  
